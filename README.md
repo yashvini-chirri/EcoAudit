@@ -7,6 +7,9 @@ EcoAudit is a web-based waste management and sustainability tracking application
 The platform utilizes browser geolocation to automatically capture user location, stores waste records in a real-time database, provides analytics through a live dashboard, and displays waste locations on an interactive map.
 
 ---
+ **Live Demo:** https://eco-audit-wheat.vercel.app/
+
+ **GitHub Repository:** https://github.com/yashvini-chirri/EcoAudit
 
 ## Features
 
@@ -135,7 +138,7 @@ Supabase PostgreSQL is used as the backend database.
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/EcoAudit.git
+git clone https://github.com/yashvini-chirri/EcoAudit.git
 ```
 
 Navigate to the project
