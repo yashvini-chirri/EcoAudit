@@ -198,11 +198,6 @@ Include screenshots for:
 * User authentication
 * AI-based waste classification
 * Carbon footprint estimation
-* Waste collection scheduling
-* Administrative dashboard
-* PDF report generation
-* Notification system
-* Data filtering and search
 
 ---
 
@@ -222,14 +217,6 @@ This project demonstrates practical implementation of:
 
 ---
 
-## Author
-
-**Yashvini**
-
-Developed as part of the **CodeChef VITC Projects Department Recruitment**.
-
----
-
 ## License
 
-This project is intended for educational and recruitment purposes.
+This project is intended for educational purposes.
