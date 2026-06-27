@@ -176,11 +176,20 @@ The application is deployed using **Vercel**.
 Include screenshots for:
 
 * Splash Screen
+  <img width="1289" height="574" alt="image" src="https://github.com/user-attachments/assets/1212e3d5-2698-456f-aab8-9c9b82006398" />
+
 * Home Dashboard
+  <img width="1339" height="670" alt="image" src="https://github.com/user-attachments/assets/b005d78e-1265-4719-9336-c2f47250bd75" />
+
 * Waste Logging Form
+ <img width="1339" height="543" alt="image" src="https://github.com/user-attachments/assets/9105dbe5-db60-4f14-ad18-8e4c4c6c8ef1" />
+
 * Interactive Map
-* Analytics Dashboard
+  <img width="1291" height="550" alt="image" src="https://github.com/user-attachments/assets/4ed799e0-cbd7-4757-b644-854348a11d40" />
+
 * Dark Mode
+  <img width="1341" height="666" alt="image" src="https://github.com/user-attachments/assets/ced926c4-1ad9-460b-924e-a74e5c59ad6b" />
+
 
 ---
 
