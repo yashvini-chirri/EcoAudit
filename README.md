@@ -21,6 +21,8 @@ The platform utilizes browser geolocation to automatically capture user location
   * Image upload
 * Real-time dashboard updates
 * Interactive Leaflet map displaying waste locations
+* Interactive Leaflet map with color-coded markers:
+  - ex: Blue marker for Plastic waste
 * Live waste statistics
 * Category-wise waste distribution
 * Responsive user interface
