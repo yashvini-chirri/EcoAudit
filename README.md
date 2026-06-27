@@ -2,7 +2,7 @@
 
 ## Overview
 
-EcoAudit is a web-based waste management and sustainability tracking application developed as part of the **CodeChef VITC Projects Department Recruitment**. The application enables users to record waste generation, visualize waste locations, and monitor environmental impact through an interactive dashboard.
+EcoAudit is a web-based waste management and sustainability tracking application . The application enables users to record waste generation, visualize waste locations, and monitor environmental impact through an interactive dashboard.
 
 The platform utilizes browser geolocation to automatically capture user location, stores waste records in a real-time database, provides analytics through a live dashboard, and displays waste locations on an interactive map.
 
